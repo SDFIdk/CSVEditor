@@ -1,0 +1,13 @@
+    body > .container, body > .container-fluid {
+      padding: 70px 15px 0;
+    }
+    
+    .input-col-first {
+        min-width: 300px;
+    }
+    .input-col-rest {
+        max-width: 80px;
+    }
+
+
+
